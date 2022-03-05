@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 -->
 
-Hi I'm Leopoldo Ramirez  😁, I'm trying to build a better world (and ☁️) one byte at once (With the helpof lot of ☕)
+Hi I'm Leopoldo Ramirez  😁, I'm trying to build a better world (and ☁️) one byte at once (with the help of a lot of ☕)
 
 - 🔭 I’m currently working on IBM
 - 🌱 I’m currently learning Cloud Related Technologies
