@@ -18,4 +18,4 @@ Hi I'm Leopoldo Ramirez  😁, I'm trying to build a better world (and ☁️) o
 - 👯 I’m looking to collaborate on Coaching and Training Peple
 - 📫 How to reach me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rmontesleo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rmontesleo/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rmontesleo)  [<img src='linkedin-logo-2430.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rmontesleo/)  
