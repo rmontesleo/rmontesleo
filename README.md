@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 Hi I'm Leopoldo Ramirez  😁, I'm trying to build a better world (and ☁️) one byte at once (with the help of a lot of ☕)
 
-- 🔭 I’m currently working on IBM
+- 🔭 I currently work at IBM
 - 🌱 I’m currently learning Cloud Related Technologies
 - 👯 I’m looking to collaborate on Coaching and Training Peple
 
