@@ -16,6 +16,6 @@ Hi I'm Leopoldo Ramirez  😁, I'm trying to build a better world (and ☁️) o
 - 🔭 I’m currently working on IBM
 - 🌱 I’m currently learning Cloud Related Technologies
 - 👯 I’m looking to collaborate on Coaching and Training Peple
-- 📫 How to reach me:
+
 
 [<img src='linkedin-logo-2430.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rmontesleo/)  
