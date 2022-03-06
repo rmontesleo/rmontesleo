@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 Hi I'm Leopoldo Ramirez  😁, I'm trying to build a better world (and ☁️) one byte at once (with the help of a lot of ☕)
 
 - 🔭 I currently work on Cloud 
-- 🌱 I like learning new Cloud, Programming Languages and Related Technologies
+- 🌱 I like learning new Cloud topics, Programming Languages, Frontend and Related Technologies
 - 👯 I’m looking to collaborate on Coaching and Training Peple
 
 
